@@ -6,9 +6,12 @@ public class Employee {
 		System.out.println("mul");
 
 	}
+public void sub() {
+	System.out.println("sub");
 
 	public void sub() {
 		System.out.println("sub");
 
 	}
+}
 }
